@@ -58,7 +58,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 >
 > - 개발 기간 : 2025.05.23 ~ 06.05 (10일)  
 > - 핵심 역할 : 얼굴 인식 모델 학습, 음성 인식 통합 및 실시간 연동  
-> - 사용 기술 : PyTorch, ROS2, WebRTC, Whisper(STT)  
+> - 사용 기술 : PyTorch, ROS2, WebRTC, Whisper(STT), Python   
 > - GitHub : [FaceArm_project](https://github.com/angryRatel/FaceArm_project)
 
 ---
@@ -78,7 +78,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 >
 > - 개발 기간 : 2025.06.23 ~ 07.04 (11일)  
 > - 핵심 역할 : YOLO 기반 환자 인식, 음성 명령 처리, 센서 통합 제어  
-> - 사용 기술 : YOLOv8, ROS2, PyTorch, MQTT, ArUco  
+> - 사용 기술 : YOLOv8, ROS2, PyTorch, MQTT, ArUco, Python   
 > - GitHub : [nursing_assistance_robot_project](https://github.com/angryRatel/nursing_assistance_robot_project)
 
 ---
@@ -96,7 +96,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 ## 6. 🌐 Gazebo Turtlebot3 Simulation  
 > Gazebo 기반 자율주행 환경에서의 TurtleBot3 시뮬레이션  
 >
-> - 개발 기간 : 2025.06.9 ~ 06.12 (4일)  
+> - 개발 기간 : 2025.06.09 ~ 06.12 (4일)  
 > - 핵심 역할 : Gazebo 환경 설정, SLAM 맵 구성 및 자동 주행 시뮬레이션  
 > - 사용 기술 : ROS2, Gazebo, Python, RViz, PyTorch 
 > - GitHub : [Gazebo-Turtlebot3-Simulation](https://github.com/angryRatel/Gazebo-Turtlebot3-Simulation)
