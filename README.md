@@ -13,27 +13,39 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 <br />
 
 # 🛠️ Skills
+ 
 
-- <img src="./java_icon.png" width="20px" height="20px"/> **Java**  
-  - Java 인터페이스, Singleton 패턴, Builder 패턴 등을 활용한 MVC 아키텍처 구현 가능  
-  - 백준 Online Judge Gold 3 티어  
-  - Mockito, RestDocs를 활용한 단위 테스트 및 API 문서화 경험
+<img src="https://img.shields.io/badge/Python-%E2%97%8F-blue" height="25px" />
+- 로봇 제어 및 센서 데이터 처리 스크립트 작성 가능 (ROS2 연동 포함)
 
-- **Python / ROS2 / C++**  
-  - ROS2 기반 로봇 시스템 노드 설계 및 실시간 제어 로직 구현  
-  - OpenCV, PyTorch 등과의 통합 제어 경험  
-  - 실시간 데이터 처리 및 UI 연동 경험
+---
 
-- **기타**  
-  - WebRTC, Whisper(STT), YOLOv8 등 다양한 AI/센서 기술 활용  
-  - Git, Notion, GitHub Pages 등 협업 및 문서화 도구 능숙
+<img src="https://img.shields.io/badge/ROS2-%E2%97%8F-lightgrey" height="25px" /> 
+- 협동로봇 제어 노드 개발, 센서 연동, Launch 구성, MQTT 통신 로직 구현 가능
 
+---
+
+<img src="https://img.shields.io/badge/OpenCV_&_PyTorch-%E2%97%8F-orange" height="25px" />
+- CNN 기반 학습 모델 생성 및 영상처리 기반 객체 인식 시스템 구현 가능
+
+---
+
+<img src="https://img.shields.io/badge/Git-%E2%97%8F-green" height="25px" />
+- GitHub 기반 협업 및 프로젝트 버전 관리 가능
+
+---
+
+<img src="https://img.shields.io/badge/C_&_C++-%E2%97%8F-red" height="25px" />
+- ROS 메시지 처리 및 센서 데이터 제어 코드 작성 가능
+
+
+---
 
 <br />
 
 # 📝 Projects
 
-아래는 제가 진행한 주요 로봇 프로젝트입니다.
+진행한 주요 로봇 프로젝트
 
 ---
 
