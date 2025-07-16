@@ -3,12 +3,9 @@
 Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업  
 <br />
 
-# 👋 Intro
-
-> 안녕하세요! ***"로봇과 센서 융합, 실시간 제어를 좋아하는"*** 최정호입니다!  
-> 다양한 ROS2 기반 프로젝트를 수행하며 협동 로봇과 자동화 시스템 구현에 집중해왔습니다.  
-> 제 경험과 프로젝트들은 아래에서 확인하실 수 있습니다!
-
+# 📞 Contact  
+- 이메일 : ho04007@naver.com  
+- 깃허브 : [angryRatel](https://github.com/angryRatel)
 <br />
 
 # 🛠️ Skills
@@ -104,10 +101,4 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 > - 사용 기술 : ROS2, Gazebo, Python, RViz  
 > - GitHub : [Gazebo-Turtlebot3-Simulation](https://github.com/angryRatel/Gazebo-Turtlebot3-Simulation)
 
----
 
-<br />
-
-# 📞 Contact  
-- 이메일 : ho04007@naver.com  
-- 깃허브 : [angryRatel](https://github.com/angryRatel)
