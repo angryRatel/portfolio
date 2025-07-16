@@ -98,7 +98,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 >
 > - 개발 기간 : 2025.06.9 ~ 06.12 (4일)  
 > - 핵심 역할 : Gazebo 환경 설정, SLAM 맵 구성 및 자동 주행 시뮬레이션  
-> - 사용 기술 : ROS2, Gazebo, Python, RViz  
+> - 사용 기술 : ROS2, Gazebo, Python, RViz, PyTorch 
 > - GitHub : [Gazebo-Turtlebot3-Simulation](https://github.com/angryRatel/Gazebo-Turtlebot3-Simulation)
 
 
