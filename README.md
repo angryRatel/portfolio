@@ -16,7 +16,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 ---
 
 <img src="https://img.shields.io/badge/ROS2-%E2%97%8F-lightgrey" height="25px" />  
-- 협동로봇 제어 노드 개발, 센서 연동, Launch 구성, MQTT 통신 로직 구현 가능
+- ROS2 기반 협동로봇 제어 노드 개발 가능, 센서 드라이버 연동 및 Launch/parameter 구성 가능, MQTT 통신 로직 구현 가능
 
 ---
 
