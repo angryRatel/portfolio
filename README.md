@@ -48,7 +48,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 >
 > - 개발 기간 : 2025.05.14 ~ 05.21 (8일)  
 > - 핵심 역할 : 영상 기반 용접 경로 추적 및 ROS2 통합 제어  
-> - 사용 기술 : OpenCV, ROS2, Python  
+> - 사용 기술 : ROS2, Python, Matplotlib, Tkinter
 > - GitHub : [Auto_welding](https://github.com/angryRatel/Auto_welding)
 
 ---
