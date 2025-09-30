@@ -63,7 +63,7 @@ Rokeybootcamp 3기 수료 | 동아대학교 기계공학과 졸업
 
 ---
 
-## 3. 🛞 Turtlebot3 Project  
+## 3. 🛠️ Turtlebot3 Project  
 > Turtlebot3 기반 자율주행 및 SLAM 프로젝트  
 >
 > - 개발 기간 : 2025.06.16 ~ 06.19 (4일)  
